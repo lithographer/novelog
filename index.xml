@@ -5,12 +5,30 @@
     <link>https://www.novelog.info/</link>
     <description>Recent content on NOVELOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>ja-jp</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 Feb 2019 23:12:20 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 22 Feb 2019 20:05:26 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hosting</title>
+      <link>https://www.novelog.info/posts/hosting/</link>
+      <pubDate>Fri, 22 Feb 2019 20:05:26 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/hosting/</guid>
+      <description>最近やったこと。 静的サイトジェネレータのhugoでファイル生成。 freenomで無料ドメインを取得。DNSのレコードがややこしかった。 GitHub Pa</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://www.novelog.info/about/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.novelog.info/about/</guid>
+      <description>朗読とか音楽（ボーカル）とか色々とやってる人。 趣味の断捨離も必要なんじゃないかと思い始めた2019年。 というわけでブログ開始しました。 About This Theme.</description>
+    </item>
     
     <item>
       <title>Helloworld</title>
@@ -20,19 +38,6 @@
       <guid>https://www.novelog.info/posts/helloworld/</guid>
       <description>Hello World !
  </description>
-    </item>
-    
-    <item>
-      <title>About this Theme</title>
-      <link>https://www.novelog.info/about/</link>
-      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.novelog.info/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Special thanks to:
- nofancy cocoa-enhanced  </description>
     </item>
     
     <item>

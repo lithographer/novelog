@@ -5,12 +5,31 @@
     <link>https://www.novelog.info/categories/articles/</link>
     <description>Recent content in Articles on NOVELOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>ja-jp</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Feb 2019 20:05:26 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/categories/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hosting</title>
+      <link>https://www.novelog.info/posts/hosting/</link>
+      <pubDate>Fri, 22 Feb 2019 20:05:26 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/hosting/</guid>
+      <description>最近やったこと。 静的サイトジェネレータのhugoでファイル生成。 freenomで無料ドメインを取得。DNSのレコードがややこしかった。 GitHub Pa</description>
+    </item>
+    
+    <item>
+      <title>Helloworld</title>
+      <link>https://www.novelog.info/posts/helloworld/</link>
+      <pubDate>Wed, 20 Feb 2019 23:12:20 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/helloworld/</guid>
+      <description>Hello World !
+ </description>
+    </item>
     
     <item>
       <title>Getting Started with Hugo</title>
