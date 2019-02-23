@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Fri, 22 Feb 2019 20:05:26 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 23 Feb 2019 20:55:51 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/categories/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>サイト構築</title>
+      <link>https://www.novelog.info/posts/sitebuilding/</link>
+      <pubDate>Sat, 23 Feb 2019 20:55:51 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/sitebuilding/</guid>
+      <description>前回の備忘録。 ドメイン取得方法は割愛。 GitHub Pages リポジトリ作成。その後、GitHub PagesのSouceを指定する。masterか/docs。 Custom</description>
+    </item>
     
     <item>
       <title>最近やったこと</title>

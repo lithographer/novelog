@@ -3,8 +3,8 @@
 <head>
   
   <meta charset="utf-8">
-  <title>Articles</title>
-  <meta name="description" content="Articles">
+  <title>サイト構築</title>
+  <meta name="description" content="サイト構築">
   <meta name="author" content="@lecoqii">
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -336,8 +336,6 @@ a {
 
   
   
-  <link href="https://www.novelog.info/categories/articles/index.xml" rel="alternate" type="application/rss+xml" title="NOVELOG Feed" />
-  
 
   <meta name="generator" content="Hugo 0.53" />
 
@@ -387,77 +385,80 @@ a {
 </div>
 
 
-
 <div class="pure-g">
   <div class="pure-u-1-24 pure-u-md-5-24"></div>
   <div class="pure-u-11-12 pure-u-md-7-12">
-    <div class="post-content">
-      <p class="posts-name">Articles:</p>
+    <div class="post">
 
-      <ul class="posts">
+      <div class="post-title">
+        <p class="footnote">
+          <time datetime="2019-02-23 20:55:51 &#43;0900 DST">
+            
+              02-23-2019
+            
+          </time>
         
         
+        |
         
-        <li>
-          
-          <a class="post-list" href="https://www.novelog.info/posts/sitebuilding/">サイト構築</a>
+        
 
-          <p class="footnote">
-            <time datetime="2019-02-23 20:55:51 &#43;0900 DST">
-              
-                02-23-2019
-              
-            </time>
-          </p>
-        </li>
         
+        categories: [ <a href="https://www.novelog.info/categories/articles">articles</a> ]
         
-        
-        <li>
-          
-          <a class="post-list" href="https://www.novelog.info/posts/hosting/">最近やったこと</a>
 
-          <p class="footnote">
-            <time datetime="2019-02-22 20:05:26 &#43;0900 DST">
-              
-                02-22-2019
-              
-            </time>
-          </p>
-        </li>
         
-        
-        
-        <li>
-          
-          <a class="post-list" href="https://www.novelog.info/posts/helloworld/">Helloworld</a>
+        </p>
+        <h1>サイト構築</h1>
+      </div>
 
-          <p class="footnote">
-            <time datetime="2019-02-20 23:12:20 &#43;0900 DST">
-              
-                02-20-2019
-              
-            </time>
-          </p>
-        </li>
+      <div class="post-content">
         
-        
-        
-        <li>
-          
-          <a class="post-list" href="https://www.novelog.info/posts/hugoisforlovers/">Getting Started with Hugo</a>
 
-          <p class="footnote">
-            <time datetime="2014-04-02 00:00:00 &#43;0000 UTC">
-              
-                04-02-2014
-              
-            </time>
-          </p>
-        </li>
-        
-        
-      </ul>
+<p>前回の備忘録。</p>
+
+<p>ドメイン取得方法は割愛。</p>
+
+<h1 id="github-pages">GitHub Pages</h1>
+
+<ol>
+<li>リポジトリ作成。その後、GitHub PagesのSouceを指定する。masterか/docs。</li>
+<li>Custom domainの欄に取得したドメインを入力する。</li>
+<li>時間をおいてからEnforce HTTPSにチェックを入れる。</li>
+</ol>
+
+<h1 id="netlify">Netlify</h1>
+
+<ol>
+<li>New site from Gitもしくはindex.htmlが入っているフォルダをドラッグ＆ドロップする（英文のまま）。</li>
+<li>*.netlify.comというURLでページが生成される。</li>
+<li>Set up a custom domainからドメインを設定する。</li>
+</ol>
+
+<h1 id="firebase">Firebase</h1>
+
+<p>プロジェクトを作成する。</p>
+
+<ol>
+<li>開発 - Hostingへ行くとウィザードがでる。</li>
+<li><code>firebase login</code></li>
+<li><code>firebase init</code></li>
+<li>Hostingを選ぶ。Create new projectにする。</li>
+<li>publicディレクトリが生成される。</li>
+<li>firebase use &ndash;add</li>
+<li>で目標のプロジェクトを指定する。</li>
+<li><code>firebase deploy</code></li>
+</ol>
+
+<p>DNSレコードは次回。</p>
+
+<p>ふと思ったこと。</p>
+
+<p>画像はTwitterとかInstagramとかから埋め込みなりなんなりして持ってくればアクセス件も帯域使用量も軽くできるからいいかもしれない。</p>
+
+<p><img src="https://pbs.twimg.com/media/D0GHftgVAAAdZVd.jpg:orig" alt="nature cedar" /></p>
+
+      </div>
     </div>
   </div>
   <div class="pure-u-1-24 pure-u-md-5-24"></div>
@@ -483,8 +484,6 @@ a {
 
         </ul>
         <a href="#" class="pure-menu-link pull-right" id="gototop-btn">↑↑</a>
-        
-        <a href="https://www.novelog.info/categories/articles/index.xml" class="pure-menu-link pull-right">RSS</a>
         
       </div>
       
