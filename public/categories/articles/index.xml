@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on NOVELOG</title>
+    <link>https://www.novelog.info/categories/articles/</link>
+    <description>Recent content in Articles on NOVELOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
+    <lastBuildDate>Sun, 24 Feb 2019 22:28:18 +0900</lastBuildDate>
+    
+	<atom:link href="https://www.novelog.info/categories/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vue.js</title>
+      <link>https://www.novelog.info/posts/vuejs/</link>
+      <pubDate>Sun, 24 Feb 2019 22:28:18 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/vuejs/</guid>
+      <description>Vue.jsも学んでいこうと思う。 というわけで、CODEPENの埋め込み。 See the Pen First Pen by lithographer (@lithographer) on CodePen. そして、Twitterのシェアボタンも埋め込ん</description>
+    </item>
+    
+    <item>
+      <title>DNSレコード</title>
+      <link>https://www.novelog.info/posts/dnsrecord/</link>
+      <pubDate>Sun, 24 Feb 2019 15:21:26 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/dnsrecord/</guid>
+      <description>GitHubとNetlifyの場合はドメインを取得したサイトからAとCNAMEを変更する。 Firebaseの場合はFirebaseの設定とド</description>
+    </item>
+    
+    <item>
+      <title>サイト構築</title>
+      <link>https://www.novelog.info/posts/sitebuilding/</link>
+      <pubDate>Sat, 23 Feb 2019 20:55:51 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/sitebuilding/</guid>
+      <description>前回の備忘録。 ドメイン取得方法は割愛。 GitHub Pages リポジトリ作成。その後、GitHub PagesのSouceを指定する。masterか/docs。 Custom</description>
+    </item>
+    
+    <item>
+      <title>最近やったこと</title>
+      <link>https://www.novelog.info/posts/hosting/</link>
+      <pubDate>Fri, 22 Feb 2019 20:05:26 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/hosting/</guid>
+      <description>最近やったこと。 静的サイトジェネレータのhugoでファイル生成。 freenomで無料ドメインを取得。DNSのレコードがややこしかった。 GitHub Pa</description>
+    </item>
+    
+    <item>
+      <title>Helloworld</title>
+      <link>https://www.novelog.info/posts/helloworld/</link>
+      <pubDate>Wed, 20 Feb 2019 23:12:20 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/helloworld/</guid>
+      <description>Hello World !
+ </description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://www.novelog.info/posts/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.novelog.info/posts/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+  </channel>
+</rss>
