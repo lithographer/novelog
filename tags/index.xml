@@ -7,17 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Feb 2019 20:00:47 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Blog</title>
+      <link>https://www.novelog.info/tags/blog/</link>
+      <pubDate>Mon, 25 Feb 2019 20:00:47 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codepen</title>
+      <link>https://www.novelog.info/tags/codepen/</link>
+      <pubDate>Sun, 24 Feb 2019 23:03:57 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/tags/codepen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Development</title>
       <link>https://www.novelog.info/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Feb 2019 20:00:47 +0900</pubDate>
       
       <guid>https://www.novelog.info/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://www.novelog.info/tags/git/</link>
+      <pubDate>Mon, 25 Feb 2019 20:00:47 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/tags/git/</guid>
       <description></description>
     </item>
     
@@ -45,6 +72,15 @@
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://www.novelog.info/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vue.js</title>
+      <link>https://www.novelog.info/tags/vue.js/</link>
+      <pubDate>Sun, 24 Feb 2019 23:03:57 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/tags/vue.js/</guid>
       <description></description>
     </item>
     

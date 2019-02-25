@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Feb 2019 20:00:47 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ProgateでGitを学ぶ</title>
+      <link>https://www.novelog.info/posts/git01/</link>
+      <pubDate>Mon, 25 Feb 2019 20:00:47 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/git01/</guid>
+      <description>Progateを利用してgitの学習開始。 # ディレクトリ作成と移動 $ mkdir hogehoge; cd hogehoge # 初期化 $ git init # ファイルpiyoを追加 $ git add piyo # 記録 $ git commit -m &amp;quot;piyo wo</description>
+    </item>
+    
+    <item>
+      <title>Vuejs</title>
+      <link>https://www.novelog.info/posts/vuejs/</link>
+      <pubDate>Sun, 24 Feb 2019 23:03:57 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/vuejs/</guid>
+      <description>Vue.jsも学んでいこうと思う。 というわけで、CODEPENの埋め込み。 See the Pen First Pen by lithographer (@lithographer) on CodePen. そして、Twitterのシェアボタンも埋め込ん</description>
+    </item>
+    
+    <item>
+      <title>DNSレコード</title>
+      <link>https://www.novelog.info/posts/dnsrecord/</link>
+      <pubDate>Sun, 24 Feb 2019 15:21:26 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/dnsrecord/</guid>
+      <description>GitHubとNetlifyの場合はドメインを取得したサイトからAとCNAMEを変更する。 Firebaseの場合はFirebaseの設定とド</description>
+    </item>
+    
+    <item>
+      <title>サイト構築</title>
+      <link>https://www.novelog.info/posts/sitebuilding/</link>
+      <pubDate>Sat, 23 Feb 2019 20:55:51 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/sitebuilding/</guid>
+      <description>前回の備忘録。 ドメイン取得方法は割愛。 GitHub Pages リポジトリ作成。その後、GitHub PagesのSouceを指定する。masterか/docs。 Custom</description>
+    </item>
+    
+    <item>
+      <title>最近やったこと</title>
+      <link>https://www.novelog.info/posts/hosting/</link>
+      <pubDate>Fri, 22 Feb 2019 20:05:26 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/hosting/</guid>
+      <description>最近やったこと。 静的サイトジェネレータのhugoでファイル生成。 freenomで無料ドメインを取得。DNSのレコードがややこしかった。 GitHub Pa</description>
+    </item>
     
     <item>
       <title>Getting Started with Hugo</title>

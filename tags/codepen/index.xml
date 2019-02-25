@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codepen on NOVELOG</title>
+    <link>https://www.novelog.info/tags/codepen/</link>
+    <description>Recent content in Codepen on NOVELOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
+    <lastBuildDate>Sun, 24 Feb 2019 23:03:57 +0900</lastBuildDate>
+    
+	<atom:link href="https://www.novelog.info/tags/codepen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vuejs</title>
+      <link>https://www.novelog.info/posts/vuejs/</link>
+      <pubDate>Sun, 24 Feb 2019 23:03:57 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/vuejs/</guid>
+      <description>Vue.jsも学んでいこうと思う。 というわけで、CODEPENの埋め込み。 See the Pen First Pen by lithographer (@lithographer) on CodePen. そして、Twitterのシェアボタンも埋め込ん</description>
+    </item>
+    
+  </channel>
+</rss>
