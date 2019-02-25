@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 Feb 2019 20:00:47 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 25 Feb 2019 21:33:10 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LIVING with EVIL</title>
+      <link>https://www.novelog.info/posts/evil/</link>
+      <pubDate>Mon, 25 Feb 2019 21:33:10 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/evil/</guid>
+      <description>こういう情報は見る人が少ないうちがいいだろう。 知られてはいけない 奴隷から心理を遠ざけよ 誰が主であるかを区別しておかなくてはならない。奴隷は奴</description>
+    </item>
     
     <item>
       <title>ProgateでGitを学ぶ</title>
