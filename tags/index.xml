@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 Feb 2019 21:33:10 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 25 Feb 2019 20:00:47 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Blog</title>
       <link>https://www.novelog.info/tags/blog/</link>
-      <pubDate>Mon, 25 Feb 2019 21:33:10 +0900</pubDate>
+      <pubDate>Mon, 25 Feb 2019 20:00:47 +0900</pubDate>
       
       <guid>https://www.novelog.info/tags/blog/</guid>
       <description></description>
@@ -76,11 +76,20 @@
     </item>
     
     <item>
-      <title>Novel</title>
-      <link>https://www.novelog.info/tags/novel/</link>
+      <title>Novels</title>
+      <link>https://www.novelog.info/tags/novels/</link>
       <pubDate>Mon, 25 Feb 2019 21:33:10 +0900</pubDate>
       
-      <guid>https://www.novelog.info/tags/novel/</guid>
+      <guid>https://www.novelog.info/tags/novels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poem</title>
+      <link>https://www.novelog.info/tags/poem/</link>
+      <pubDate>Tue, 26 Feb 2019 23:40:06 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/tags/poem/</guid>
       <description></description>
     </item>
     

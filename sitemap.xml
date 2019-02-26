@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.novelog.info/posts/auguriesofinnocence/</loc>
+    <lastmod>2019-02-26T23:40:06+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.novelog.info/posts/evil/</loc>
     <lastmod>2019-02-25T21:33:10+09:00</lastmod>
   </url>
@@ -49,7 +54,7 @@
   
   <url>
     <loc>https://www.novelog.info/tags/blog/</loc>
-    <lastmod>2019-02-25T21:33:10+09:00</lastmod>
+    <lastmod>2019-02-25T20:00:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,13 +77,13 @@
   </url>
   
   <url>
-    <loc>https://www.novelog.info/tags/development/</loc>
+    <loc>https://www.novelog.info/categories/development/</loc>
     <lastmod>2019-02-25T20:00:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.novelog.info/categories/development/</loc>
+    <loc>https://www.novelog.info/tags/development/</loc>
     <lastmod>2019-02-25T20:00:47+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -109,13 +114,7 @@
   
   <url>
     <loc>https://www.novelog.info/</loc>
-    <lastmod>2019-02-25T21:33:10+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.novelog.info/tags/novel/</loc>
-    <lastmod>2019-02-25T21:33:10+09:00</lastmod>
+    <lastmod>2019-02-26T23:40:06+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -126,14 +125,32 @@
   </url>
   
   <url>
-    <loc>https://www.novelog.info/posts/</loc>
+    <loc>https://www.novelog.info/tags/novels/</loc>
     <lastmod>2019-02-25T21:33:10+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://www.novelog.info/tags/poem/</loc>
+    <lastmod>2019-02-26T23:40:06+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.novelog.info/categories/poems/</loc>
+    <lastmod>2019-02-26T23:40:06+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.novelog.info/posts/</loc>
+    <lastmod>2019-02-26T23:40:06+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.novelog.info/tags/</loc>
-    <lastmod>2019-02-25T21:33:10+09:00</lastmod>
+    <lastmod>2019-02-25T20:00:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
