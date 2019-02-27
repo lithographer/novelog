@@ -82,13 +82,13 @@
   </url>
   
   <url>
-    <loc>https://www.novelog.info/categories/development/</loc>
+    <loc>https://www.novelog.info/tags/development/</loc>
     <lastmod>2019-02-27T23:30:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.novelog.info/tags/development/</loc>
+    <loc>https://www.novelog.info/categories/development/</loc>
     <lastmod>2019-02-27T23:30:56+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -130,14 +130,14 @@
   </url>
   
   <url>
-    <loc>https://www.novelog.info/categories/novels/</loc>
-    <lastmod>2019-02-27T23:30:56+09:00</lastmod>
+    <loc>https://www.novelog.info/tags/novels/</loc>
+    <lastmod>2019-02-25T21:33:10+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.novelog.info/tags/novels/</loc>
-    <lastmod>2019-02-25T21:33:10+09:00</lastmod>
+    <loc>https://www.novelog.info/categories/novels/</loc>
+    <lastmod>2019-02-27T23:30:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
