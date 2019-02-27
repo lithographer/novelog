@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Sun, 24 Feb 2019 23:03:57 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 Feb 2019 23:30:56 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/tags/vue.js/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ProgateのHTML&amp;CSS初級</title>
+      <link>https://www.novelog.info/posts/htmlprog8/</link>
+      <pubDate>Wed, 27 Feb 2019 23:30:56 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/htmlprog8/</guid>
+      <description>ProgateのHTML&amp;amp;CSS初級を終えました。 HTMLのタグやらclassをcssを詳しく設定する感じか。 中級に行くのも悪くない</description>
+    </item>
     
     <item>
       <title>Vuejs</title>
