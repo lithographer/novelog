@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Feb 2019 23:30:56 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2019 21:50:47 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Blog</title>
       <link>https://www.novelog.info/tags/blog/</link>
-      <pubDate>Wed, 27 Feb 2019 23:30:56 +0900</pubDate>
+      <pubDate>Fri, 08 Mar 2019 21:50:47 +0900</pubDate>
       
       <guid>https://www.novelog.info/tags/blog/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Development</title>
       <link>https://www.novelog.info/tags/development/</link>
-      <pubDate>Wed, 27 Feb 2019 23:30:56 +0900</pubDate>
+      <pubDate>Fri, 08 Mar 2019 21:50:47 +0900</pubDate>
       
       <guid>https://www.novelog.info/tags/development/</guid>
       <description></description>
@@ -105,7 +105,7 @@
     <item>
       <title>Vue.js</title>
       <link>https://www.novelog.info/tags/vue.js/</link>
-      <pubDate>Wed, 27 Feb 2019 23:30:56 +0900</pubDate>
+      <pubDate>Fri, 08 Mar 2019 21:50:47 +0900</pubDate>
       
       <guid>https://www.novelog.info/tags/vue.js/</guid>
       <description></description>

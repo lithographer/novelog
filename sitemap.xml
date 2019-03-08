@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.novelog.info/posts/vuejs2/</loc>
+    <lastmod>2019-03-08T21:50:47+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.novelog.info/posts/htmlprog8/</loc>
     <lastmod>2019-02-27T23:30:56+09:00</lastmod>
   </url>
@@ -59,19 +64,19 @@
   
   <url>
     <loc>https://www.novelog.info/tags/blog/</loc>
-    <lastmod>2019-02-27T23:30:56+09:00</lastmod>
+    <lastmod>2019-03-08T21:50:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.novelog.info/categories/blogs/</loc>
-    <lastmod>2019-02-27T23:30:56+09:00</lastmod>
+    <lastmod>2019-03-08T21:50:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.novelog.info/categories/</loc>
-    <lastmod>2019-02-27T23:30:56+09:00</lastmod>
+    <lastmod>2019-03-08T21:50:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -83,13 +88,13 @@
   
   <url>
     <loc>https://www.novelog.info/tags/development/</loc>
-    <lastmod>2019-02-27T23:30:56+09:00</lastmod>
+    <lastmod>2019-03-08T21:50:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.novelog.info/categories/development/</loc>
-    <lastmod>2019-02-27T23:30:56+09:00</lastmod>
+    <lastmod>2019-03-08T21:50:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -119,7 +124,7 @@
   
   <url>
     <loc>https://www.novelog.info/</loc>
-    <lastmod>2019-02-27T23:30:56+09:00</lastmod>
+    <lastmod>2019-03-08T21:50:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -155,19 +160,19 @@
   
   <url>
     <loc>https://www.novelog.info/posts/</loc>
-    <lastmod>2019-02-27T23:30:56+09:00</lastmod>
+    <lastmod>2019-03-08T21:50:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.novelog.info/tags/</loc>
-    <lastmod>2019-02-27T23:30:56+09:00</lastmod>
+    <lastmod>2019-03-08T21:50:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.novelog.info/tags/vue.js/</loc>
-    <lastmod>2019-02-27T23:30:56+09:00</lastmod>
+    <lastmod>2019-03-08T21:50:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   

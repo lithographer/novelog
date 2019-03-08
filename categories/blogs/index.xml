@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Feb 2019 23:30:56 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2019 21:50:47 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/categories/blogs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vuejs2</title>
+      <link>https://www.novelog.info/posts/vuejs2/</link>
+      <pubDate>Fri, 08 Mar 2019 21:50:47 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/vuejs2/</guid>
+      <description>忘れぬようCODEPREPの復習。 computedとmethodsとwatch。いずれもいまだ分からぬ。 文字を煌びやかに、そして躍動させたく</description>
+    </item>
     
     <item>
       <title>ProgateのHTML&amp;CSS初級</title>
