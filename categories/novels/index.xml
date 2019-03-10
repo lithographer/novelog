@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Feb 2019 23:30:56 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 25 Feb 2019 21:33:10 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/categories/novels/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>ProgateのHTML&amp;CSS初級</title>
-      <link>https://www.novelog.info/posts/htmlprog8/</link>
-      <pubDate>Wed, 27 Feb 2019 23:30:56 +0900</pubDate>
-      
-      <guid>https://www.novelog.info/posts/htmlprog8/</guid>
-      <description>ProgateのHTML&amp;amp;CSS初級を終えました。 HTMLのタグやらclassをcssを詳しく設定する感じか。 中級に行くのも悪くない</description>
-    </item>
     
     <item>
       <title>LIVING with EVIL</title>

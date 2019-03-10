@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Fri, 08 Mar 2019 21:50:47 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2019 21:45:28 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vuejs3</title>
+      <link>https://www.novelog.info/posts/vuejs3/</link>
+      <pubDate>Sun, 10 Mar 2019 21:45:28 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/vuejs3/</guid>
+      <description>Photo via on Visualhunt.com 今年の杉花粉は黄砂よりも色鮮やかなり。 写る景色は一面黄色のフィルターがかかり、それはまるでKodakのフィルムで撮った写真の如くなり</description>
+    </item>
     
     <item>
       <title>Vuejs2</title>
@@ -40,12 +49,21 @@
     </item>
     
     <item>
-      <title>Vuejs</title>
+      <title></title>
       <link>https://www.novelog.info/posts/vuejs/</link>
       <pubDate>Sun, 24 Feb 2019 23:03:57 +0900</pubDate>
       
       <guid>https://www.novelog.info/posts/vuejs/</guid>
       <description>Vue.jsも学んでいこうと思う。 というわけで、CODEPENの埋め込み。 See the Pen First Pen by lithographer (@lithographer) on CodePen. そして、Twitterのシェアボタンも埋め込ん</description>
+    </item>
+    
+    <item>
+      <title>DNSレコード</title>
+      <link>https://www.novelog.info/posts/dnsrecord/</link>
+      <pubDate>Sun, 24 Feb 2019 15:21:26 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/dnsrecord/</guid>
+      <description>GitHubとNetlifyの場合はドメインを取得したサイトからAとCNAMEを変更する。 Firebaseの場合はFirebaseの設定とド</description>
     </item>
     
     <item>

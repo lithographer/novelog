@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Fri, 08 Mar 2019 21:50:47 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2019 21:45:28 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,36 +15,18 @@
     <item>
       <title>Blog</title>
       <link>https://www.novelog.info/tags/blog/</link>
-      <pubDate>Fri, 08 Mar 2019 21:50:47 +0900</pubDate>
+      <pubDate>Sun, 10 Mar 2019 21:45:28 +0900</pubDate>
       
       <guid>https://www.novelog.info/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Codepen</title>
-      <link>https://www.novelog.info/tags/codepen/</link>
-      <pubDate>Sun, 24 Feb 2019 23:03:57 +0900</pubDate>
-      
-      <guid>https://www.novelog.info/tags/codepen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Development</title>
       <link>https://www.novelog.info/tags/development/</link>
-      <pubDate>Fri, 08 Mar 2019 21:50:47 +0900</pubDate>
+      <pubDate>Sun, 10 Mar 2019 21:45:28 +0900</pubDate>
       
       <guid>https://www.novelog.info/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Git</title>
-      <link>https://www.novelog.info/tags/git/</link>
-      <pubDate>Mon, 25 Feb 2019 20:00:47 +0900</pubDate>
-      
-      <guid>https://www.novelog.info/tags/git/</guid>
       <description></description>
     </item>
     
@@ -76,15 +58,6 @@
     </item>
     
     <item>
-      <title>Novel</title>
-      <link>https://www.novelog.info/tags/novel/</link>
-      <pubDate>Wed, 27 Feb 2019 23:30:56 +0900</pubDate>
-      
-      <guid>https://www.novelog.info/tags/novel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Novels</title>
       <link>https://www.novelog.info/tags/novels/</link>
       <pubDate>Mon, 25 Feb 2019 21:33:10 +0900</pubDate>
@@ -105,7 +78,7 @@
     <item>
       <title>Vue.js</title>
       <link>https://www.novelog.info/tags/vue.js/</link>
-      <pubDate>Fri, 08 Mar 2019 21:50:47 +0900</pubDate>
+      <pubDate>Sun, 10 Mar 2019 21:45:28 +0900</pubDate>
       
       <guid>https://www.novelog.info/tags/vue.js/</guid>
       <description></description>
