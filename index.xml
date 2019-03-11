@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Sun, 10 Mar 2019 21:45:28 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2019 22:25:12 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>時間泥棒</title>
+      <link>https://www.novelog.info/posts/timethieves/</link>
+      <pubDate>Mon, 11 Mar 2019 22:25:12 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/timethieves/</guid>
+      <description>「はたらけど はたらけど猶わが生活楽にならざり ぢっと手を見る」（一握の砂 石川啄木） いわゆる先進国の人類の大半が空しく盗まれているもの。 時間。そ</description>
+    </item>
     
     <item>
       <title>Vuejs3</title>
