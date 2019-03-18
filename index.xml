@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>(c) 2017 - 2018 Aos Dabbagh -- All rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 22:25:12 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2019 21:44:01 +0900</lastBuildDate>
     
 	<atom:link href="https://www.novelog.info/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>拡張現実</title>
+      <link>https://www.novelog.info/posts/augmentedreality/</link>
+      <pubDate>Mon, 18 Mar 2019 21:44:01 +0900</pubDate>
+      
+      <guid>https://www.novelog.info/posts/augmentedreality/</guid>
+      <description>常人の見るものを超え芸術家は別なるものを創造、投影し対象を見る。冬の樹に満開の桜を、爛爛たる都会の夜に天の川を見る。逆もあり。道行く人々の衣</description>
+    </item>
     
     <item>
       <title>時間泥棒</title>
@@ -22,20 +31,20 @@
     </item>
     
     <item>
-      <title>Vuejs3</title>
-      <link>https://www.novelog.info/posts/vuejs3/</link>
+      <title>checkbox with Vuejs3</title>
+      <link>https://www.novelog.info/posts/checkboxwithvuejs/</link>
       <pubDate>Sun, 10 Mar 2019 21:45:28 +0900</pubDate>
       
-      <guid>https://www.novelog.info/posts/vuejs3/</guid>
+      <guid>https://www.novelog.info/posts/checkboxwithvuejs/</guid>
       <description>Photo via on Visualhunt.com 今年の杉花粉は黄砂よりも色鮮やかなり。 写る景色は一面黄色のフィルターがかかり、それはまるでKodakのフィルムで撮った写真の如くなり</description>
     </item>
     
     <item>
-      <title>Vuejs2</title>
-      <link>https://www.novelog.info/posts/vuejs2/</link>
+      <title>list with Vuejs</title>
+      <link>https://www.novelog.info/posts/listwithvuejs/</link>
       <pubDate>Fri, 08 Mar 2019 21:50:47 +0900</pubDate>
       
-      <guid>https://www.novelog.info/posts/vuejs2/</guid>
+      <guid>https://www.novelog.info/posts/listwithvuejs/</guid>
       <description>忘れぬようCODEPREPの復習。 computedとmethodsとwatch。いずれもいまだ分からぬ。 文字を煌びやかに、そして躍動させたく</description>
     </item>
     
@@ -77,10 +86,10 @@
     
     <item>
       <title>Hello Vuejs</title>
-      <link>https://www.novelog.info/posts/vuejs1/</link>
+      <link>https://www.novelog.info/posts/hellovuejs/</link>
       <pubDate>Sun, 24 Feb 2019 23:03:57 +0900</pubDate>
       
-      <guid>https://www.novelog.info/posts/vuejs1/</guid>
+      <guid>https://www.novelog.info/posts/hellovuejs/</guid>
       <description>Vue.jsも学んでいこうと思う。 というわけで、CODEPENの埋め込み。 See the Pen First Pen by lithographer (@lithographer) on CodePen. そして、Twitterのシェアボタンも埋め込ん</description>
     </item>
     

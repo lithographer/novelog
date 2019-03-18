@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.novelog.info/posts/augmentedreality/</loc>
+    <lastmod>2019-03-18T21:44:01+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.novelog.info/posts/timethieves/</loc>
     <lastmod>2019-03-11T22:25:12+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.novelog.info/posts/vuejs3/</loc>
+    <loc>https://www.novelog.info/posts/checkboxwithvuejs/</loc>
     <lastmod>2019-03-10T21:45:28+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.novelog.info/posts/vuejs2/</loc>
+    <loc>https://www.novelog.info/posts/listwithvuejs/</loc>
     <lastmod>2019-03-08T21:50:47+09:00</lastmod>
   </url>
   
@@ -38,7 +43,7 @@
   </url>
   
   <url>
-    <loc>https://www.novelog.info/posts/vuejs1/</loc>
+    <loc>https://www.novelog.info/posts/hellovuejs/</loc>
     <lastmod>2019-02-24T23:03:57+09:00</lastmod>
   </url>
   
@@ -122,13 +127,13 @@
   
   <url>
     <loc>https://www.novelog.info/</loc>
-    <lastmod>2019-03-11T22:25:12+09:00</lastmod>
+    <lastmod>2019-03-18T21:44:01+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.novelog.info/tags/novel/</loc>
-    <lastmod>2019-03-11T22:25:12+09:00</lastmod>
+    <lastmod>2019-03-18T21:44:01+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,7 +145,7 @@
   
   <url>
     <loc>https://www.novelog.info/categories/novels/</loc>
-    <lastmod>2019-03-11T22:25:12+09:00</lastmod>
+    <lastmod>2019-03-18T21:44:01+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -158,7 +163,7 @@
   
   <url>
     <loc>https://www.novelog.info/posts/</loc>
-    <lastmod>2019-03-11T22:25:12+09:00</lastmod>
+    <lastmod>2019-03-18T21:44:01+09:00</lastmod>
     <priority>0</priority>
   </url>
   
